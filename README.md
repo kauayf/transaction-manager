@@ -65,12 +65,7 @@ $ cd transaction-manager
 $ yarn test
 ```
 
-#### Iniciando a API
-```sh
-$ yarn dev:server
-```
-
-#### Instalando dependências, iniciando migrations e servidor
+#### Instalando dependências, iniciando migrations e API
  1° - ```$ yarn``` - "Dependencias do projeto"
  
  2° - ```$ yarn typeorm migration:run``` - "Criando as migrations no PostGreSQL"
