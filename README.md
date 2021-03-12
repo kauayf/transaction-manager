@@ -68,12 +68,15 @@ $ yarn test
 #### Iniciando a API
 ```sh
 $ yarn dev:server
-
-# Rodando as migrations para o banco de dados e iniciando o projeto
- 1° - $ yarn - "Dependencias do projeto"
- 2° - $ yarn typeorm migration:run - "Criando as migrations no PostGreSQL"
- 3° - $ yarn dev:server - "inicia o backend" 
 ```
+
+#### Instalando dependências, iniciando migrations e servidor
+ 1° - ```$ yarn``` - "Dependencias do projeto"
+ 
+ 2° - ```$ yarn typeorm migration:run``` - "Criando as migrations no PostGreSQL"
+ 
+ 3° - ```$ yarn dev:server``` - "inicia o backend"
+
 
 #### Iniciando o Frontend
 ```sh
