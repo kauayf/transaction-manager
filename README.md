@@ -51,6 +51,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 $ git clone https://github.com/kauayf/transaction-manager.git
 $ cd transaction-manager
 ```
+
+#### Iniciando Testes
+```sh
+$ yarn teste
+```
+
 #### Iniciando a API
 ```sh
 $ yarn dev:server
