@@ -24,7 +24,7 @@
 
 - [x] Deve permitir que exclua uma transação, e ao fazer a exclusão, ele retorne uma resposta vazia, com status ```204```
 
-- [x] Deve permitir que seja importado um arquivo csv, contendo o seguinte modelo. Com o arquivo importado, você deve permitir que seja criado no banco de dados todos os registros e categorias que estavam presentes nesse arquivo, e retornar todas as transactions que foram importadas.
+- [x] Deve permitir que seja importado um arquivo csv, contendo o seguinte modelo. Com o arquivo importado, deve permitir que seja criado no banco de dados todos os registros e categorias que estavam presentes nesse arquivo, e retornar todas as transactions que foram importadas.
 
 ## ✅ Demonstração da aplicação
 
