@@ -8,7 +8,7 @@
 
 ## ✅ Status do Projeto
 
-🚦 EM BREVE: Gestão de Transações em React.js... 🚦
+🚦 EM BREVE: Gestão de Transações em ReactJS 🚦
 
 ##  ✅ Features
 
