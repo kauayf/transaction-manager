@@ -31,9 +31,14 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [PostGreSQL](https://www.sqlite.org/index.html)
+- [PostGreSQL](https://www.postgresql.org)
 - [Node.js](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/products/insomnia)
+- [TypeORM](https://typeorm.io/)
+- [ParseCSV](https://csv.js.org/parse/)
+- [FS](https://nodejs.org/api/fs.html)
+- [Express](https://expressjs.com/pt-br/)
+- [Multer](https://www.npmjs.com/package/multer)
 
 
 <Div style{alingnItems: 'center'}> 
@@ -43,8 +48,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### Clonando o projeto
 ```sh
-$ git clone https://github.com/kauayf/desafio-typeorm
-$ cd desafio-typeorm
+$ git clone https://github.com/kauayf/transaction-manager
+$ cd transaction-manager
 ```
 #### Iniciando a API
 ```sh
