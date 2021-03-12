@@ -6,11 +6,11 @@
    🚀 API Para gestão de transações (Entrada, Saída, Balanço) 🚀
       
 
-# ✅ Status do Projeto
+## ✅ Status do Projeto
 
 🚦 EM BREVE: Gestão de Transações em React.js... 🚦
 
-#  ✅ Features
+##  ✅ Features
 
 - [x] Cadastro de transações
 - [x] Cadastro automático de novas categorias
@@ -18,14 +18,14 @@
 - [x] Importação de arquivos CSV  
 - [ ] Front-End 
 
-# ✅ Demonstração da aplicação
+## ✅ Demonstração da aplicação
 
 <h1 align="center">
   <img src=src/assets/typeorm.gif />
 </h1>
 
 
-# ✅ Tecnologias utilizadas
+## ✅ Tecnologias utilizadas
 
 ### 🛠 Tecnologias
 
