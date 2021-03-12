@@ -54,7 +54,7 @@ $ cd transaction-manager
 
 #### Iniciando Testes
 ```sh
-$ yarn teste
+$ yarn test
 ```
 
 #### Iniciando a API
