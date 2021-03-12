@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### Clonando o projeto
 ```sh
-$ git clone https://github.com/kauayf/transaction-manager
+$ git clone https://github.com/kauayf/transaction-manager.git
 $ cd transaction-manager
 ```
 #### Iniciando a API
