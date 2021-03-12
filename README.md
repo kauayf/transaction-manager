@@ -14,7 +14,7 @@
 
 - [x] Permitir que uma transação seja criada, e retorne um ```JSON``` com a transação criada.
 
-- [x] Ao criar uma nova transação com uma categoria que não existe, seja criada e inserida no ```campo category_id``` da transação com o ```id``` que acabou de ser criado.
+- [x] Ao criar uma nova transação com uma categoria que não existe, seja criada e inserida no campo ```category_id``` da transação com o ```id``` que acabou de ser criado.
 
 - [x] Ao criar uma nova transação com uma categoria que já existe, seja atribuído ao campo ```category_id``` da transação com o ```id``` dessa categoria existente, não permitindo a criação de categorias com o mesmo ```title```.
 
