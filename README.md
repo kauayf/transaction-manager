@@ -56,8 +56,6 @@ $ yarn dev:server
  3° - $ yarn dev:server - "inicia o backend" 
 ```
 
-<a href="https://insomnia.rest/run/?label=NLW%20-%20NPS%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FNinjaAzul%2FNLW4%2Fmaster%2FApi%2Fpublic%2FNLW4.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-
 #### Iniciando o Frontend
 ```sh
 Novidades em breve ... 🚀
