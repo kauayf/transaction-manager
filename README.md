@@ -39,15 +39,15 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [PostGreSQL](https://www.postgresql.org)
-- [Node.js](https://nodejs.org/en/)
-- [Insomnia](https://insomnia.rest/products/insomnia)
-- [TypeORM](https://typeorm.io/)
-- [ParseCSV](https://csv.js.org/parse/)
-- [FS](https://nodejs.org/api/fs.html)
-- [Express](https://expressjs.com/pt-br/)
-- [Multer](https://www.npmjs.com/package/multer)
+- [TypeScript ⚡](https://www.typescriptlang.org/)
+- [PostGreSQL ⚡](https://www.postgresql.org)
+- [Node.js ⚡](https://nodejs.org/en/)
+- [Insomnia ⚡](https://insomnia.rest/products/insomnia)
+- [TypeORM ⚡](https://typeorm.io/)
+- [ParseCSV ⚡](https://csv.js.org/parse/)
+- [FS ⚡](https://nodejs.org/api/fs.html)
+- [Express ⚡](https://expressjs.com/pt-br/)
+- [Multer ⚡](https://www.npmjs.com/package/multer)
 
 
 <Div style{alingnItems: 'center'}> 
