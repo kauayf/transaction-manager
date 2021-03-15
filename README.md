@@ -39,6 +39,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [TypeScript](https://www.typescriptlang.org/)
 - [PostGreSQL](https://www.postgresql.org)
 - [Node.js](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/products/insomnia)
