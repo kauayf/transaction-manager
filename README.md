@@ -4,11 +4,7 @@
 
  # ✅ Transaction-Manager
    🚀 API Para gestão de transações (Entrada, Saída, Balanço) 🚀
-      
 
-## ✅ Status do Projeto
-
-🚦 EM BREVE: Gestão de Transações em ReactJS & React Native 🚦
 
 ##  ✅ Features
 
@@ -28,8 +24,14 @@
 
 ## ✅ Demonstração da aplicação
 
+### CRIAÇÃO, LISTAGEM, VALIDAÇÃO
 <h1 align="center">
-  <img src=src/assets/typeorm.gif />
+  <img src=src/assets/transaction_manager_1.gif />
+</h1>
+
+### IMPORTAÇÃO DE ARQUIVO CSV
+<h1 align="center">
+  <img src=src/assets/transaction_manager_2.gif />
 </h1>
 
 
@@ -48,11 +50,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [FS ⚡](https://nodejs.org/api/fs.html)
 - [Express ⚡](https://expressjs.com/pt-br/)
 - [Multer ⚡](https://www.npmjs.com/package/multer)
-
-
-<Div style{alingnItems: 'center'}> 
-
-</Div>
+- [UUID ⚡](https://www.npmjs.com/package/uuid)
 
 
 #### Clonando o projeto
@@ -68,9 +66,9 @@ $ yarn test
 
 #### Instalando dependências, iniciando migrations e API
  1° - ```$ yarn``` - "Dependencias do projeto"
- 
+
  2° - ```$ yarn typeorm migration:run``` - "Criando as migrations no PostGreSQL"
- 
+
  3° - ```$ yarn dev:server``` - "inicia o backend"
 
 
@@ -86,5 +84,5 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 
 <p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💙 by <strong>  🌠 Kauay Felipe 🌠 </strong> </p>
 
- 
+
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/gobarber/LICENSE.md)
