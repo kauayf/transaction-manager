@@ -1,5 +1,5 @@
 
-# 🚀🔥 Gestão de Transações 🔥🚀
+# 🔥 Gestão de Transações 🔥
 
 
  # ✅ Transaction-Manager
